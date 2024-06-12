@@ -1,6 +1,6 @@
 # DrugDAGT
 A dual-attention graph transformer framework with contrastive learning for 86 drug-drug interaction types prediction.<br/>
-![image](https://github.com/codejiajia/DrugDAGT/blob/main/framework.jpg)
+![image](https://github.com/codejiajia/DrugDAGT/blob/main/model.jpg)
 <br/>
 Please see our manuscript for more details.<br/>
 ## Requirements
