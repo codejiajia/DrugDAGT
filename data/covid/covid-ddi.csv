@@ -1,0 +1,74 @@
+C1,smiles1,C2,smiles2,label
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,1
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,1
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,1
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,1
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,0
+Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,0
+Triflupromazine hydrochloride,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21.Cl,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,1
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,1
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,NCGC00411883-01,COCCNC(=O)Nc1ccc2nc(-c3cccs3)c(-c3cccs3)nc2c1,1
+Amodiaquine,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,1
+Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,1
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,NCGC00411883-01,COCCNC(=O)Nc1ccc2nc(-c3cccs3)c(-c3cccs3)nc2c1,1
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,Rupintrivir,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,1
+Nelfinavir Mesylate,CS(=O)(=O)O.Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,NCGC00411883-01,COCCNC(=O)Nc1ccc2nc(-c3cccs3)c(-c3cccs3)nc2c1,1
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Calpeptin,CCCCC(C=O)NC(=O)C(CC(C)C)NC(=O)OCc1ccccc1,0
+Hydroxychloroquine sulfate,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Calpeptin,CCCCC(C=O)NC(=O)C(CC(C)C)NC(=O)OCc1ccccc1,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,0
+Calpeptin,CCCCC(C=O)NC(=O)C(CC(C)C)NC(=O)OCc1ccccc1,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Triflupromazine hydrochloride,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21.Cl,Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Oseltamivir phosphate,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1.O=P(O)(O)O,Rupintrivir,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,0
+Leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,0
+Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,Hydroxychloroquine sulfate,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O,0
+Acifluorfen-sodium,O=C([O-])c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-].[Na+],Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,Oseltamivir phosphate,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1.O=P(O)(O)O,0
+Hydroxychloroquine sulfate,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Z-FA-FMK,CC(NC(=O)C(Cc1ccccc1)NC(=O)OCc1ccccc1)C(=O)CF,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,Cephaeline HBr,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(O)c(OC)cc21,0
+Camostat Mesilate,CN(C)C(=O)COC(=O)Cc1ccc(OC(=O)c2ccc(N=C(N)N)cc2)cc1.CS(=O)(=O)O,Rupintrivir,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,0
+Oseltamivir phosphate,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1.O=P(O)(O)O,Camostat Mesilate,CN(C)C(=O)COC(=O)Cc1ccc(OC(=O)c2ccc(N=C(N)N)cc2)cc1.CS(=O)(=O)O,0
+Doxycycline hyclate,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21.CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21.CCO.Cl.Cl.O,Saracatinib,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1,0
+Oseltamivir phosphate,CCOC(=O)C1=CC(OC(CC)CC)C(NC(C)=O)C(N)C1.O=P(O)(O)O,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Camostat mesylate,CN(C)C(=O)COC(=O)Cc1ccc(OC(=O)c2ccc(N=C(N)N)cc2)cc1.CS(=O)(=O)O,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,Rupintrivir,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,0
+Saracatinib,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Doxycycline hyclate,CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21.CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21.CCO.Cl.Cl.O,Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,0
+Cathepsin Inhibitor 1,Cn1nc(C(C)(C)C)cc1C(=O)NC(Cc1cccc(Cl)c1)C(=O)NCC#N,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Camostat Mesilate,CN(C)C(=O)COC(=O)Cc1ccc(OC(=O)c2ccc(N=C(N)N)cc2)cc1.CS(=O)(=O)O,0
+Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,Indinavir sulfate,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1CC(O)CC(Cc1ccccc1)C(=O)NC1c2ccccc2CC1O.O=S(=O)(O)O,0
+Sirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,Hydroxychloroquine sulfate,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O,0
+Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Nafamostat mesylate,CS(=O)(=O)O.CS(=O)(=O)O.N=C(N)c1ccc2cc(OC(=O)c3ccc(N=C(N)N)cc3)ccc2c1,0
+Indinavir sulfate,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1CC(O)CC(Cc1ccccc1)C(=O)NC1c2ccccc2CC1O.O=S(=O)(O)O,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Acifluorfen,O=C(O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Saquinavir Mesylate,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1.CS(=O)(=O)O,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Calpeptin,CCCCC(C=O)NC(=O)C(CC(C)C)NC(=O)OCc1ccccc1,0
+Leflunomide,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,Nelfinavir Mesylate,CS(=O)(=O)O.Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Z-FA-FMK,CC(NC(=O)C(Cc1ccccc1)NC(=O)OCc1ccccc1)C(=O)CF,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Nelfinavir Mesylate,CS(=O)(=O)O.Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,0
+Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Cathepsin Inhibitor 1,Cn1nc(C(C)(C)C)cc1C(=O)NC(Cc1cccc(Cl)c1)C(=O)NCC#N,0
+2-cyano-Pyrimidine,N#Cc1ncccn1,Rupintrivir,CCOC(=O)C=CC(CC1CCNC1=O)NC(=O)C(CC(=O)C(NC(=O)c1cc(C)on1)C(C)C)Cc1ccc(F)cc1,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Ritonavir,CC(C)c1nc(CN(C)C(=O)NC(C(=O)NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)NC(=O)OCc2cncs2)C(C)C)cs1,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Favipiravir,NC(=O)c1nc(F)c[nH]c1=O,0
+Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Z-FA-FMK,CC(NC(=O)C(Cc1ccccc1)NC(=O)OCc1ccccc1)C(=O)CF,0
+Camostat Mesilate,CN(C)C(=O)COC(=O)Cc1ccc(OC(=O)c2ccc(N=C(N)N)cc2)cc1.CS(=O)(=O)O,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Selumetinib,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21,0
+Triflupromazine hydrochloride,CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21.Cl,Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,0
+Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,Cathepsin Inhibitor 1,Cn1nc(C(C)(C)C)cc1C(=O)NC(Cc1cccc(Cl)c1)C(=O)NCC#N,0
+Lopinavir,Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,Z-FA-FMK,CC(NC(=O)C(Cc1ccccc1)NC(=O)OCc1ccccc1)C(=O)CF,0
+Sirolimus,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,Emetine dihydrochloride hydrate,CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21.Cl.Cl.O,0
+Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Nitazoxanide,CC(=O)Oc1ccccc1C(=O)Nc1ncc([N+](=O)[O-])s1,Cathepsin Inhibitor 1,Cn1nc(C(C)(C)C)cc1C(=O)NC(Cc1cccc(Cl)c1)C(=O)NCC#N,0
+NCGC00411883-01,COCCNC(=O)Nc1ccc2nc(-c3cccs3)c(-c3cccs3)nc2c1,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
+Hydroxychloroquine sulfate,CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O,Remdesivir,CCC(CC)COC(=O)C(C)NP(=O)(OCC1OC(C#N)(c2ccc3c(N)ncnn23)C(O)C1O)Oc1ccccc1,0
