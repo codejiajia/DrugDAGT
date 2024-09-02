@@ -29,7 +29,7 @@ Please see our manuscript for more details.<br/>
 * `{train/val/test}_pair_{left/right}_cold2.csv`:The left or right drugs of drug pairs in train/validation/test sets in cold-start scenario.<br/>
 * `{train/val/test}_pair_{left/right}_imbalance5.csv`:The left or right drugs of drug pairs in train/validation/test sets in imbalance scenario.
 ### covid 
-* `covid-ddi.csv`:The drug pairs name and corresponding SMILES sequences for SARS-CoV-2 combination treatments.
+* `covid-ddi.csv`:The drug pairs' names and corresponding SMILES sequences for SARS-CoV-2 combination treatments.
 ## Usage
 Here, we provide a demo for DDI prediction in the warm-start scenario <br/>
 * Run train.py using 
