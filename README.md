@@ -22,10 +22,14 @@ Please see our manuscript for more details.<br/>
 * einops>=0.3.2<br/>
 * seaborn>=0.11.1
 ## Data
+### drugbank
 * `drugbank_drugs.csv`:The drugbank IDs corresponding to the 1706 drugs in our dataset.<br/>
 * `drugbank_smiles.csv`:The SMILES sequences corresponding to 1706 drugs.<br/>
 * `{train/val/test}_pair_{left/right}.csv`:The left or right drugs of drug pairs in train/validation/test sets in warm-start scenario.<br/>
-* `{train/val/test}_pair_{left/right}_cold2.csv`:The left or right drugs of drug pairs in train/validation/test sets in cold-start scenario.
+* `{train/val/test}_pair_{left/right}_cold2.csv`:The left or right drugs of drug pairs in train/validation/test sets in cold-start scenario.<br/>
+* `{train/val/test}_pair_{left/right}_imbalance5.csv`:The left or right drugs of drug pairs in train/validation/test sets in imbalance scenario.
+### covid 
+* `covid-ddi.csv`:The drug pairs name and corresponding SMILES sequences for SARS-CoV-2 combination treatments.
 ## Usage
 Here, we provide a demo for DDI prediction in the warm-start scenario <br/>
 * Run train.py using 
